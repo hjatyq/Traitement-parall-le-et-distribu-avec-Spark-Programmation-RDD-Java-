@@ -1,0 +1,4 @@
+2023-01-12  Paris   Laptop   1200
+2023-01-13  Rabat   Phone    800
+2024-05-05  Paris   Phone    700
+2023-02-10  Rabat   Laptop   1000
